@@ -1,0 +1,19 @@
+{
+  "name": "cp-test-data",
+  "version": "1.0.0",
+  "description": "TestData for use in zen",
+  "main": "index.js",
+  "repository": "git@github.com:CoderDojo/cp-test-data.git",
+  "author": "CoderDojo",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "eslint": "^4.9.0",
+    "eslint-config-coderdojo": "^1.0.6",
+    "eslint-plugin-chai-friendly": "^0.4.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "5.1.1",
+    "eslint-plugin-react": "7.3.0",
+    "moment": "^2.19.1"
+  }
+}
